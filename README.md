@@ -1,7 +1,6 @@
 Hi 👋 My name is Thanapakorn Chaiyaso
 =====================================
 
-Junior Full Stack Developer
 ---------------------------
 
 👋 Hi, I'm Thanapakorn, and I have skills in developing websites and web applications. I'm currently looking for a \*\*Junior Developer\*\* position in \*\*Backend\*\*, \*\*Frontend\*\*, or \*\*Full Stack Development\*\* where I can apply my coding skills to create user-friendly websites. 
