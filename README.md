@@ -1,17 +1,10 @@
 Hi 👋 My name is Thanapakorn Chaiyaso
 =====================================
 
----------------------------
-
-👋 Hi, I'm Thanapakorn, and I have skills in developing websites and web applications. I'm currently looking for a \*\*Junior Developer\*\* position in \*\*Backend\*\*, \*\*Frontend\*\*, or \*\*Full Stack Development\*\* where I can apply my coding skills to create user-friendly websites. 
-
-🌱 I'm eager to grow and learn with the organization, adapt to new challenges, and contribute to building great web solutions. 
-
-📍 I'm willing to relocate to \*\*Bangkok\*\* for the right opportunity. 📬 If you're looking for a motivated and passionate developer, feel free to contact me at thanapakorn001@gmail.com
-
 * 🌍  I'm based in Skonnakorn,Thailand
 * ✉️  You can contact me at [thanapakorn001@gmail.com](mailto:thanapakorn001@gmail.com)
 * 🧠  I'm learning TypeScript
+* 🧠  I'm cadet at 42Bangkok
 
 ### Skills
 
